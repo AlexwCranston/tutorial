@@ -8,4 +8,6 @@ print("goodbye")
 # I am adding more lines
 
 # Save then commit then push
-afdasfasfads
+
+
+print("github is cool")
